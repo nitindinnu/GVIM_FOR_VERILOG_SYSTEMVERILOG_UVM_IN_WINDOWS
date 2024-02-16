@@ -4,7 +4,7 @@
 1. When you open gvim it opens like in mini window with some default font style
 2. ![](<Pasted image 20240216114107.png>)
 ## STEP2 : changing your layout
-1. Download the `_vimrc` file by [clicking_here](https://raw.github.com/nitindinnu/GVIM_FOR_VERILOG_SYSTEMVERILOG_UVM_IN_WINDOWS/blob/main/_vimrc)
+1. Download the `_vimrc` file by [clicking_here](https://github.com/nitindinnu/GVIM_FOR_VERILOG_SYSTEMVERILOG_UVM_IN_WINDOWS/blob/main/_vimrc)
 2. ![](<Screenshot 2024-02-16 122047.png>)
 3. Remove the .txt extension and download simple `_vimrc`  ![](<Screenshot 2024-02-16 120846.png>)
 5. ![](<Pasted image 20240216114855.png>)
